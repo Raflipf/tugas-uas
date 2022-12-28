@@ -5,8 +5,7 @@
 <br>Jurusan		:[Teknik Informatika](http://if.uinsgd.ac.id/) [UIN Sunan Gunung Djati Bandung](https://uinsgd.ac.id/) 
 
 ## Deskripsi Umum
-ini merupakan program matriks dan pembagian dari angka 3,5 dan 7. Matriks banyak dimanfaatkan untuk menyelesaikan berbagai permasalahan matematika misalnya dalam menemukan solusi masalah persamaan linear,
-transformasi linear yakni bentuk umum dari fungsi linear 
+ini merupakan program matriks dan pembagian dari angka 3,5 dan 7. Matriks banyak dimanfaatkan untuk menyelesaikan berbagai permasalahan matematika misalnya dalam menemukan solusi masalah persamaan linear, transformasi linear yakni bentuk umum dari fungsi linear 
 ## Source Code
 
 #include <iostream>
